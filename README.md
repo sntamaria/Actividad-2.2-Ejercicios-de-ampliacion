@@ -1,0 +1,1 @@
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/sntamaria/Actividad-2.2-Ejercicios-de-ampliacion/blob/main/Mar%C3%ADa_de_los_%C3%81ngeles_Mart%C3%ADn_de_la_Cruz_Cuaderno_Demo_UT2_Ejercicios_de_ampliaci%C3%B3n.ipynb)
